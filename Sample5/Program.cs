@@ -138,7 +138,7 @@ class Program
                 j--;
             }
             array[j + 1] = key;
-        }s
+        }
     }
     // Метод сортировки выбором
     static void SelectionSort(int[] array)
